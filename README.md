@@ -1,2 +1,3 @@
 # hello-world
-The very first repopsitory
+Coding time has begun...
+"The very first repository" novel written by Wojciech Głuch.
